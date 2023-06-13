@@ -3,7 +3,7 @@
 
 ## Importante! 
 
-- Esta página es un ejemplo ficticio y no representa a ninguna empresa real. Toda la información, productos y servicios presentados aquí son puramente ilustrativos y no deben ser considerados como reales o disponibles para su adquisición. Cualquier similitud con empresas existentes es pura coincidencia. Este sitio web se crea con fines de demostración únicamente y no tiene ninguna conexión con ninguna entidad comercial real. Por favor, tenga en cuenta que cualquier interacción o transacción basada en esta página es inválida. Gracias por su comprensión.
+- Este sitio web utiliza imágenes e información pública que se han obtenido del perfil de Instagram de una empresa real con fines ilustrativos y educativos. Sin embargo, es importante tener en cuenta que esta página sigue siendo ficticia y no está afiliada ni respaldada por la empresa mencionada. Todos los productos, servicios y promociones presentados aquí son ficticios y no están disponibles para su compra. No se debe confiar en ninguna información presentada en este sitio web como válida o precisa. Cualquier similitud con la empresa real es puramente coincidencia. Por favor, tenga en cuenta que no se puede realizar ninguna interacción o transacción basada en esta página. Gracias por su comprensión.
 
 ## Requerimientos Previos
 
